@@ -75,3 +75,9 @@ main {
   width: 100%;
   height: 2.5rem;
 }
+
+#webpage-img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
